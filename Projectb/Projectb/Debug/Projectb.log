@@ -1,0 +1,5 @@
+﻿  Project.c
+C:\Users\Kapusi Lorand\Desktop\Projektb\Projectb\Projectb\Project.c(11,8): warning C4013: 'exit' undefined; assuming extern returning int
+C:\Users\Kapusi Lorand\Desktop\Projektb\Projectb\Projectb\Project.c(14,33): warning C4013: 'calloc' undefined; assuming extern returning int
+C:\Users\Kapusi Lorand\Desktop\Projektb\Projectb\Projectb\Project.c(76,8): warning C4013: 'system' undefined; assuming extern returning int
+  Projectb.vcxproj -> C:\Users\Kapusi Lorand\Desktop\Projektb\Projectb\Debug\Projectb.exe
